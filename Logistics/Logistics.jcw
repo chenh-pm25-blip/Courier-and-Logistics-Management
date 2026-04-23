@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Logistics</label>
+	</settings>
+	<users>
+		<user>
+			<path>Logistics.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>test.jcp</path>
+		</project>
+	</projects>
+</workspace>
